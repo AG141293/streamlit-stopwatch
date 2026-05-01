@@ -69,7 +69,7 @@ streamlit-stopwatch/
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/streamlit-stopwatch.git
+git clone https://github.com/AG141293/streamlit-stopwatch.git
 
 # Navigate to folder
 cd streamlit-stopwatch
